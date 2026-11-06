@@ -1,0 +1,4 @@
+user,separation_timestamp,account_disabled_timestamp,policy_target_hours
+user_d,2026-03-04 09:00,2026-03-04 12:30,24
+user_e,2026-06-10 17:00,2026-06-13 18:00,24
+user_f,2026-08-07 08:00,2026-08-07 10:00,24
